@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Arnav</h1>
 Exploring different tech for fun<br>
-Web3@GDSC NITJ
+Web3@GDSC NITJ<br>
 Building CDAO<br>
 Too curious for my own good
 
