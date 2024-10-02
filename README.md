@@ -1,6 +1,6 @@
 <h1 align="center">Hey there👋🏻, I'm Arnav</h1>
-Exploring different tech for fun<br>
-Web3@GDSC NITJ<br>
+Fuckin around to find out<br>
+UI/UX Lead@GDSC NITJ<br>
 Too curious for my own good
 
 ## 🏆 GitHub Trophies
